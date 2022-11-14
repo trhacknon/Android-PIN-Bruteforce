@@ -92,7 +92,7 @@ This has been successfully tested with various phones including the Samsung S5, 
 It can unlock Android versions 6.0.1 through to 10.0. The ability to perform a bruteforce attack doesn't depend on the Android version in use. It depends on how the device vendor developed their own lockscreen.
 
 Check the Phone Database for more details
-https://github.com/urbanadventurer/Android-PIN-Bruteforce/wiki/Phone-Database
+https://github.com/trhacknon/Android-PIN-Bruteforce/wiki/Phone-Database
 
 ## 🎳 PIN Lists
 
